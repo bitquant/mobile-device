@@ -1,0 +1,24 @@
+{
+  "name": "mobile-device",
+  "version": "1.0.0",
+  "description": "Detection of mobile devices based on user-agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/mobile-device.git"
+  },
+  "keywords": [
+    "detect",
+    "mobile",
+    "device"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/mobile-device/issues"
+  },
+  "homepage": "https://github.com/bitquant/mobile-device#readme"
+}
